@@ -2,10 +2,6 @@
 
 # Xibonacci
 
-De vegades els programadors necessiten esvair-se una mica després d'una intensa sessió de treball. En
-aquesta ocasió us presentem una activitat idonea per deixar descansar la ment mentres disfrutem d'un
-magnific esport com és el basquet i que consisteix en enregistrar cada cistella d'un partir de la següent
-forma:
 De vegades els programadors seuen en una mala posició després d'una intensa sessió de treball. En aquesta ocasió us presentem una activitat per calcular la posició perfecta per trencar-se l'esquena, una bona forma seria amb fibonacci pero tambe volem ser capassos de tumbar-nos malament en un sofa o inclus al llit, per aixo calcularem fibonacci, tribonacci, tetranacii, etc. Podrem calcular cualsevol secuencia nacci o tambe "Xibonacci", el farem a partir de la següent forma:
 - Primer indicarem la serie inicial, la serie son **n** nombres de fibonacci.
 - A continuació s'indica el nombre de valors que espera el resultat.
